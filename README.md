@@ -1,5 +1,11 @@
-# 💫 About Me:
-I am currently working on python automation.<br>I am currently learning the os/subprocess in python.<br>I am also looking forward to learn full stack.<br>There is not much of anything amazing about me, I am a reader(Dokja).
+## Hey, Me Aban 
+---
+### Currently learning 
+automation, os/subprocess in python.
+###Free Time Activity
+I read Novels, Manga/Manhwa, 
+Watch anime,
+play Chess.
 
 
 ## 🌐 Socials:
