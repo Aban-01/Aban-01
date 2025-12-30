@@ -4,9 +4,9 @@
 `Automation` `os/subprocess`
 ---
 ### 💫Free Time Activity :-
-📖read Novels, Manga/Manhwa,<br> 
+📖Read Novels, Manga/Manhwa,<br> 
 📺Watch anime<br>
-♟️play Chess<br>
+♟️Play Chess<br>
 
 
 ## 🌐 Socials:
