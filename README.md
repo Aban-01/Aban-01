@@ -1,11 +1,12 @@
 ## Hey, Me Aban 
+
+### 🏫Learning :
+`Automation` `os/subprocess`
 ---
-### Currently learning 
-automation, os/subprocess in python.
-###Free Time Activity
-I read Novels, Manga/Manhwa, 
-Watch anime,
-play Chess.
+### 💫Free Time Activity :-
+📖read Novels, Manga/Manhwa,<br> 
+📺Watch anime<br>
+♟️play Chess<br>
 
 
 ## 🌐 Socials:
