@@ -1,5 +1,7 @@
 ## Hey, Me Aban 
 
+## Learning :-
+Got into Ricing(Hyprland). (don't know lua, but its not that hard to understand)
 ---
 ### 💫Free Time Activity :-
 📖Read Novels, Manga/Manhwa,<br> 
