@@ -1,7 +1,5 @@
 ## Hey, Me Aban 
 
-### 🏫Learning :
-`Automation` `os/subprocess`
 ---
 ### 💫Free Time Activity :-
 📖Read Novels, Manga/Manhwa,<br> 
