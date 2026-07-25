@@ -1,7 +1,7 @@
 ## Hey, Me Aban 
 
 ### Learning :- 
-Got into Ricing(Hyprland). (don't know lua, but its not that hard to understand)
+Got into Ricing(Hyprland). (don't know lua, but it is not that hard to understand)
 
 ---
 ### 💫Free Time Activity :-
